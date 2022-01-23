@@ -1,0 +1,23 @@
+{
+  "name": "environmentconfigsynchroizeplugin",
+  "version": "1.0.0",
+  "description": "A plugin for synchronize config of each env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\"\u001b[D\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madaoLi666/Env-Config-Synchroize-Webpack-Plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "MADAO Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madaoLi666/Env-Config-Synchroize-Webpack-Plugin/issues"
+  },
+  "homepage": "https://github.com/madaoLi666/Env-Config-Synchroize-Webpack-Plugin#readme"
+}
