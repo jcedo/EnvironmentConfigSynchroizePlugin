@@ -28,7 +28,6 @@ class EnvironmentConfigSynchronizePlugin {
     this.userOption = options || {};
     this.version = EnvironmentConfigSynchronizePlugin.version;
     this.configPath = "";
-    console.log(this.userOption);
   }
 
   apply(compiler) {
