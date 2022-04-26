@@ -1,5 +1,5 @@
 {
-  "name": "environmentconfigsynchroizeplugin",
+  "name": "EnvironmentConfigSynchroizePlugin",
   "version": "1.0.0",
   "description": "A plugin for synchronize config of each env",
   "main": "index.js",

@@ -10,7 +10,6 @@ require("@babel/register");
 const fs = require("fs");
 const _ = require("lodash");
 const path = require("path");
-const parser = require("@babel/parser");
 class EnvironmentConfigSynchronizePlugin {
 
   /**
